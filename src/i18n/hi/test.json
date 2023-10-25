@@ -1,0 +1,21 @@
+{
+  "HELLO": "नमस्ते",
+  "PRODUCT": {
+    "NEW": "नया उत्पाद: {name}"
+  },
+  "ENGLISH": "अंग्रेज़ी",
+  "ARRAY": ["एक", "दो", "तीन"],
+  "cat": "बिल्ली",
+  "cat_name": "बिल्ली: {name}",
+  "set-up-password": {
+    "heading": "नमस्ते, {username}",
+    "title": "पासवर्ड भूल गए",
+    "followLink": "कृपया पासवर्ड सेट करने के लिए लिंक पर क्लिक करें"
+  },
+  "day_interval": {
+    "one": "हर दिन",
+    "other": "हर {count} दिन",
+    "zero": "कभी नहीं"
+  },
+  "nested": "हम खरीददारी करते हैं: $t(test.day_interval, {{\"count\": {count} }})"
+}
